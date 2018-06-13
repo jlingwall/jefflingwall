@@ -1,0 +1,13 @@
+
+name: "jefflingwall"
+output_dir: "."
+navbar:
+  title: "Jeff Lingwall"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+
+
+
